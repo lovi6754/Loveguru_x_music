@@ -19,7 +19,8 @@
 </h2>
 
 <p align="center">
-  <img align="[https://graph.org/file/cab9a1662ccb755aee732.jpg]">
+     <img
+  src="[https://graph.org/file/cab9a1662ccb755aee732.jpg]">
 </p>
 
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟❣️❥cRiMiNaL_X_MuSiC🥀](https://t.me/Criminal_x_music_bot)
