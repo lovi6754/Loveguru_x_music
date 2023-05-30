@@ -67,7 +67,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𓆩.̶͟͟͞͞͞͞ 𝐌Ս𝗞𝗞Ս ✘𓆪‌⏤͟✨❤️🥀", url=f"https://t.me/ll_mukku_ll/11")
+                        "𓆩.̶͟͟͞͞͞͞ RISHII ✘𓆪‌⏤͟✨❤️🥀", url=f"https://t.me/miss_u02")
                 ]
             ]
         ),
@@ -92,7 +92,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𓆩.̶͟͟͞͞͞͞ 𝐌Ս𝗞𝗞Ս ✘𓆪‌⏤͟✨❤️🥀", url=f"https://t.me/ll_mukku_ll/11")
+                        "𓆩.͟͞RISHII X𓆪‌⏤͟✨❤️🥀", url=f"https://t.me/miss_u02")
                 ]
             ]
         ),
@@ -111,7 +111,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", url=f"BEEKHARI NAHI MILEGA TEREKO ")
                 ]
             ]
         ),
@@ -129,7 +129,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", url=f"BEEKHARI NAHI MILEGA TEREKO")
                 ]
             ]
         ),
@@ -147,7 +147,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", url=f"BEEKHARI NHI MILEGA TEREKo")
                 ]
             ]
         ),
