@@ -47,7 +47,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Rishii7205/criminal_x_music",
+    "https://github.com/lovi6754/Loveguru_x_music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -56,10 +56,10 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/miss_u02"
+    "SUPPORT_CHANNEL", "https://t.me/loveguruoo"
 )  # Example:- https://t.me/miss_u02
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/billa_x_gang"
+    "SUPPORT_GROUP", "https://t.me/innocentop"
 )  # Example:- https://t.me/billa_x_gang
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
@@ -159,7 +159,7 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/af6e136cfda9c8155b69f.mp4")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/af6e136cfda9c8155b69f.mp4 ")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
@@ -168,7 +168,7 @@ PING_IMG_URL = getenv(
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg",
+    "https://telegra.ph//file/ed7d9d0100f0b0eed2a3a.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
@@ -178,7 +178,7 @@ GLOBAL_IMG_URL = getenv(
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg",
+    "https://telegra.ph//file/ed7d9d0100f0b0eed2a3a.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
