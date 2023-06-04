@@ -20,7 +20,7 @@
 
 <p align="center">
      
-   <img src="(https://telegra.ph//file/20d2fbed4cb4bbc586c8a.jpg)">
+   <img src="([https://telegra.ph//file/20d2fbed4cb4bbc586c8a.jpg](https://telegra.ph//file/20d2fbed4cb4bbc586c8a.jpg))">
 </p>
 
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟❣️❥lovely_X_MuSiC🥀](https://t.me/lovely_musicbot)
